@@ -1,0 +1,21 @@
+Corpus,Label
+Nations have implemented a variety of border security measures to prevent illegal crossings.,O O O O O O security security O O O O O
+The international community has created a system of sanctions to deter hostile actions.,O security O O O O O O security O O O O
+Governments have increased the use of surveillance technologies to monitor their citizens.,O O O O O O security security O O O O
+The use of military force to protect a nation's interests is a common practice.,O O O security security O O O O O O O O O
+The development of effective cyber security protocols is essential to protect against digital threats.,O O O O security security O O O O O O O O
+Nations have developed strategies to counter the threat of terrorism.,O O O O O O O O O O
+Intelligence gathering is an important tool used by governments to gain insight into international affairs.,security security O O O O O O O O O O O O O
+Governments have invested in missile defense systems to protect against incoming threats.,O O O O security security O O O O O O
+Nations have adopted policies to protect critical infrastructure from potential attacks.,O O O O O O security security O O O
+Governments have developed strategies to respond to natural disasters.,O O O O O O O O O
+Nations have developed strategies to protect their citizens from the spread of disease.,O O O O O O O O O O O O O
+Governments have implemented measures to protect their citizens from cybercrime.,O O O O O O O O O O
+Nations have adopted policies to protect their citizens from human trafficking.,O O O O O O O O O security O
+Governments have developed strategies to protect their citizens from the spread of misinformation.,O O O O O O O O O O O O O
+Nations have implemented measures to protect their citizens from the threat of piracy.,O O O O O O O O O O O O O
+Governments have created laws to protect their citizens from the threat of organized crime.,O O O O O O O O O O O O security O
+Nations have adopted policies to protect their citizens from the threat of biological weapons.,O O O O O O O O O O O O security O
+Governments have developed strategies to protect their citizens from the threat of chemical weapons.,O O O O O O O O O O O O security O
+Nations have implemented measures to protect their citizens from the threat of nuclear weapons.,O O O O O O O O O O O O security O
+Governments have adopted policies to protect their citizens from the threat of cyber warfare.,O O O O O O O O O O O O security O

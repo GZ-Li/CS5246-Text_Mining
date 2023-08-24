@@ -1,0 +1,61 @@
+Corpus,Label
+The nurse gave the patient a dose of ibuprofen to reduce his sore throat.,O O O O O O O O Drug O O O Medical O
+The doctor prescribed antibiotics to treat the patient's infection.,O O O Drug O O O O O
+The patient was given a prescription for hydrocortisone cream to treat his rash.,O O O O O O O Drug O O O O O
+The doctor recommended acetaminophen for the patient's headache.,O O O Drug O O O O
+The patient was given an inhaler to treat his asthma.,O O O O O Drug O O O O
+The patient was prescribed an antibiotic to treat his sinus infection.,O O O O O Drug O O O Medical O
+The doctor prescribed the patient a course of prednisone for his allergies.,O O O O O O O O Drug O O O
+The patient was given a prescription for amoxicillin to treat her ear infection.,O O O O O O O Drug O O O Medical O
+The doctor prescribed a topical ointment to treat the patient's eczema.,O O O O Drug Drug O O O O O
+The patient was given a dose of ibuprofen to reduce his fever.,O O O O O O O Drug O O O O
+The patient was prescribed an antibiotic to treat her bronchitis.,O O O O O Drug O O O O
+The doctor recommended tylenol for the patient's muscle pain.,O O O Drug O O O Medical O
+The patient was given a prescription for an antihistamine to treat his allergies.,O O O O O O O O Drug O O O O
+The doctor prescribed a course of antibiotics to treat the patient's urinary tract infection.,O O O O O O Drug O O O O Medical Medical O
+The patient was given a dose of ibuprofen to reduce his back pain.,O O O O O O O Drug O O O Medical O
+The doctor recommended a decongestant to treat the patient's sinus congestion.,O O O O Drug O O O O Medical O
+The patient was prescribed a topical cream to treat her psoriasis.,O O O O O Drug Drug O O O O
+The doctor recommended acetaminophen for the patient's toothache.,O O O Drug O O O O
+The patient was given a prescription for an antacid to treat her heartburn.,O O O O O O O O Drug O O O O
+The doctor prescribed a course of prednisone to treat the patient's inflammation.,O O O O O O Drug O O O O O
+The patient was diagnosed with a fractured ankle by the radiologist.,O O O O O O Medical Medical O O O
+The patient was prescribed antibiotics for his strep throat by the physician.,O O O O Drug O O Medical Medical O O O
+The patient was given an inhaler for his asthma by the nurse practitioner.,O O O O O Drug O O Medical O O O O
+The patient was given a tetanus shot to prevent infection by the doctor.,O O O O O Medical Drug O O O O O O
+The patient was given insulin to treat his diabetes by the endocrinologist.,O O O O Drug O O O Medical O O O
+The patient was given a prescription for a topical ointment to treat his eczema by the dermatologist.,O O O O O O O O Drug Drug O O O Medical O O O
+The patient was treated with an anticoagulant to prevent blood clots by the cardiologist.,O O O O O O Drug O O Medical Medical O O O
+The patient was given medication to reduce his cholesterol by the family doctor.,O O O O Drug O O O Medical O O O O
+The patient was prescribed an anti-inflammatory to treat his arthritis by the rheumatologist.,O O O O O Drug O O O Medical O O O
+The patient was given a bronchodilator to treat his COPD by the pulmonologist.,O O O O O Drug O O O Medical O O O
+The patient was given a vaccine to prevent the flu by the internist.,O O O O O Drug O O O Medical O O O
+The patient was given an antidepressant to treat his depression by the psychiatrist.,O O O O O Drug O O O Medical O O O
+The patient was given a muscle relaxant to treat his back pain by the orthopedist.,O O O O O Drug Drug O O O Medical Medical O O O
+The patient was prescribed a diuretic to treat his high blood pressure by the primary care physician.,O O O O O Drug O O O Medical Medical Medical O O O O O
+The patient was given an antacid to treat his heartburn by the gastroenterologist.,O O O O O Drug O O O Medical O O O
+The patient was given a topical cream to treat his psoriasis by the allergist.,O O O O O Drug Drug O O O Medical O O O
+The patient was prescribed an antihistamine to treat his hay fever by the allergist.,O O O O O Drug O O O Medical Medical O O O
+The patient was given a decongestant to treat his sinus infection by the ENT specialist.,O O O O O Drug O O O Medical Medical O O O O
+The patient was given an immunosuppressant to treat his Crohn's disease by the gastroenterologist.,O O O O O Drug O O O Medical Medical O O O
+The patient was prescribed a beta-blocker to treat his hypertension by the cardiologist.,O O O O O Drug O O O Medical O O O
+The patient was diagnosed with a broken leg by the orthopedist.,O O O O O O Medical Medical O O O
+She was prescribed antibiotics to treat her strep throat.,O O O Drug O O O Medical O
+The cardiologist recommended he take a statin to lower his cholesterol.,O O O O O O Drug O O O O
+The neurologist diagnosed him with a migraine and prescribed him ibuprofen.,O O O O O O Medical O O O O
+The oncologist prescribed chemotherapy to treat her cancer.,O O O Treatment O O O O
+The radiologist ordered an MRI to diagnose her back pain.,O O O O Diagnostic O O O Medical O
+The dermatologist prescribed a topical cream to treat her eczema.,O O O O Drug Drug O O O O
+The endocrinologist suggested she take insulin to manage her diabetes.,O O O O O Drug O O O O
+The allergist prescribed an antihistamine to help with her allergies.,O O O O Drug O O O O O
+The ophthalmologist recommended he use eye drops to treat his dry eyes.,O O O O O Drug Drug O O O Medical O
+The ENT prescribed a decongestant to help with her sinus infection.,O O O O Drug O O O O Medical O
+The gynecologist suggested she take birth control to regulate her hormones.,O O O O O Drug Drug O O O O
+The pulmonologist recommended he take an inhaler to help with his asthma.,O O O O O O Drug O O O O O
+The gastroenterologist prescribed an antacid to treat her acid reflux.,O O O O Drug O O O Medical O
+The urologist suggested he take a diuretic to reduce his water retention.,O O O O O O Drug O O O Medical O
+The rheumatologist prescribed a non-steroidal anti-inflammatory drug to treat his arthritis.,O O O O Drug Drug Drug O O O O
+The oncologist recommended she take a targeted therapy to treat her cancer.,O O O O O O Treatment Treatment O O O O
+The physiatrist prescribed physical therapy to help with her back pain.,O O O Treatment Treatment O O O O Medical O
+The pediatrician prescribed an antibiotic to treat her ear infection.,O O O O Drug O O O Medical O
+The psychiatrist recommended she take an antidepressant to help with her depression.,O O O O O O Drug O O O O O

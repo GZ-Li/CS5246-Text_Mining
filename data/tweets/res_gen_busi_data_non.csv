@@ -1,0 +1,30 @@
+Corpus,Label
+Walmart is offering discounts on selected items this week.,business O O O O O O O O
+Apple has released its latest iPhone model.,business O O O O O O
+Amazon is offering free shipping on orders over $50.,business O O O O O O O O
+McDonald's is introducing a new value meal.,O O O O O O O
+KFC is offering a loyalty program for its customers.,business O O O O O O O O
+Starbucks is launching a new line of coffees.,business O O O O O O O
+Burger King is offering a new breakfast menu.,business business O O O O O O
+HSBC is offering a new credit card with special rewards.,business O O O O O O O O O
+Citi Bank is offering a new savings account with high interest rates.,business business O O O O O O O O O O
+Apple Store is offering free returns on all products.,business business O O O O O O O
+Amazon Prime is offering free two-day shipping.,business business O O O O O
+Walgreens is offering discounts on prescription medications.,business O O O O O O
+Target is introducing a new rewards program.,business O O O O O O
+UPS is offering lower shipping rates for online orders.,business O O O O O O O O
+FedEx is offering discounts on international shipping.,business O O O O O O
+Best Buy is offering discounts on select electronics.,business business O O O O O O
+AT&T is launching a new cellular plan.,business O O O O O O
+Google is offering free cloud storage.,business O O O O O
+JP Morgan Chase is offering a new checking account with no fees.,business business business O O O O O O O O O
+Shell is offering discounts on fuel.,business O O O O O
+Chevron is offering discounts on motor oil.,business O O O O O O
+BP is offering discounts on gasoline.,business O O O O O
+Wells Fargo is offering a new credit card with cash back rewards.,business business O O O O O O O O O O
+Bank of America is offering a new savings account with high interest rates.,business business business O O O O O O O O O O
+Costco is offering discounts on bulk items.,business O O O O O O
+IBM is launching a new artificial intelligence platform.,business O O O O O O O
+Adobe is offering discounts on its creative suite.,business O O O O O O O
+Oracle is offering cloud computing services.,business O O O O O
+Dell is offering discounts on select computer models.,business O O O O O O O

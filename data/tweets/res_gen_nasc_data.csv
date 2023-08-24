@@ -1,0 +1,31 @@
+Corpus,Label
+The United States has implemented a nationwide biometric identification system to enhance national security.,O country country O O O location security security security O O O O
+The United Kingdom has implemented a facial recognition system at its airports to strengthen security.,O country country O O O security security security O O location O O O
+China has deployed advanced missile defense systems along its coastal cities to protect its citizens.,country O O O security security security O O location location O O O O
+Israel has established a cyber security unit to protect its infrastructure from cyber attacks.,country O O O security security security O O O location O security O
+India has employed a network of coastal radars to detect potential threats in the region.,country O O O O O security security O O O O O O O
+Japan has established a network of surveillance cameras in public areas to monitor potential threats.,country O O O O O security security O location location O O O O
+South Korea has established a military presence along its border with North Korea to deter potential aggression.,country country O O O security security O O location location location country O O O O
+Canada has implemented a system of border control to prevent the entry of unauthorized persons.,country O O O O O security security O O O O O O O
+France has established a system of intelligence gathering to anticipate potential threats to its national security.,country O O O O O security security O O O O O O location O
+Germany has implemented a system of air defense to protect its airspace from potential threats.,country O O O O O security security O O O location O O O
+Australia has deployed a network of sensors to detect potential threats in its region.,country O O O O O security O O O O O O O
+Mexico has implemented a system of border patrols to monitor the movement of people across its borders.,country O O O O O security security O O O O O O O O O
+Brazil has established a system of naval patrols to monitor its maritime borders.,country O O O O O security security O O O location O
+Russia has deployed a system of early warning satellites to detect potential threats in its region.,country O O O O O security security security O O O O O O O
+Saudi Arabia has established a system of border control to prevent the entry of unauthorized persons.,country country O O O O O security security O O O O O O O
+The United Arab Emirates has employed a network of surveillance drones to monitor potential threats.,O country country country O O O O O security security O O location O
+Qatar has implemented a system of air defense to protect its airspace from potential threats.,country O O O O O security security O O O location O O O
+India has established a system of intelligence gathering to anticipate potential threats to its national security.,country O O O O O security security O O O O O O location O
+Pakistan has deployed a network of sensors to detect potential threats in its region.,country O O O O O security O O O O O O O
+Iran has implemented a system of border patrols to monitor the movement of people across its borders.,country O O O O O security security O O O O O O O O O
+Iraq has established a system of naval patrols to monitor its maritime borders.,country O O O O O security security O O O location O
+Afghanistan has deployed a system of early warning satellites to detect potential threats in its region.,country O O O O O security security security O O O O O O O
+Egypt has implemented a system of border control to prevent the entry of unauthorized persons.,country O O O O O security security O O O O O O O
+Turkey has employed a network of surveillance drones to monitor potential threats.,country O O O O O security security O O location O
+Kuwait has implemented a system of air defense to protect its airspace from potential threats.,country O O O O O security security O O O location O O O
+Bahrain has established a system of intelligence gathering to anticipate potential threats to its national security.,country O O O O O security security O O O O O O location O
+Oman has deployed a network of sensors to detect potential threats in its region.,country O O O O O security O O O O O O O
+Jordan has implemented a system of border patrols to monitor the movement of people across its borders.,country O O O O O security security O O O O O O O O O
+Yemen has established a system of naval patrols to monitor its maritime borders.,country O O O O O security security O O O location O
+Syria has deployed a system of early warning satellites to detect potential threats in its region.,country O O O O O security security security O O O O O O O

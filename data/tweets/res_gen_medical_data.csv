@@ -1,0 +1,181 @@
+Corpus,Label
+John Doe received a diagnosis of influenza from his doctor.,Person Person O O O O Medical O O O
+Mary Smith was prescribed antibiotics for her strep throat.,Person Person O O O O O Medical O
+Jane Doe had an appointment with her neurologist to discuss her migraine headaches.,Person Person O O O O O O O O O Medical O
+Joe Brown visited his primary care physician for a checkup.,Person Person O O O O O O O O
+Sarah Jones underwent a CT scan for her abdominal pain.,Person Person O O O O O O Medical O
+Tom Johnson was referred to an oncologist for his cancer treatment.,Person Person O O O O O O O Medical O
+David Smith was prescribed an inhaler for his asthma.,Person Person O O O O O O O
+Linda Brown was diagnosed with a kidney infection.,Person Person O O O O Medical O
+Mark Wilson had an appointment with his cardiologist for a heart condition.,Person Person O O O O O O O O Medical O
+Jennifer Jones was prescribed medication for her high blood pressure.,Person Person O O O O O Medical Medical O
+John Doe was referred to a specialist for his diabetes.,Person Person O O O O O O O O
+Mary Smith had an MRI to diagnose her back pain.,Person Person O O O O O O Medical O
+Jane Doe was prescribed an antibiotic for her sinus infection.,Person Person O O O O O O Medical O
+Joe Brown consulted his doctor about his flu symptoms.,Person Person O O O O O Medical O
+Sarah Jones was referred to a dermatologist for her skin rash.,Person Person O O O O O O O Medical O
+Tom Johnson was diagnosed with a UTI.,Person Person O O O O O
+David Smith had an appointment with his primary care physician for a checkup.,Person Person O O O O O O O O O O O
+Linda Brown underwent a colonoscopy to check for colon cancer.,Person Person O O O O O O Medical O
+Mark Wilson was prescribed medication for his cholesterol.,Person Person O O O O O O
+Jennifer Jones had an appointment with her gynecologist for a pap smear.,Person Person O O O O O O O O Medical O
+John Smith was diagnosed with pneumonia by his physician.,Person Person O O O Medical O O O
+Jane Doe was prescribed antibiotics for her strep throat infection.,Person Person O O O O O Medical Medical O
+Mary Johnson had a heart attack and was hospitalized.,Person Person O O Medical Medical O O O
+Robert Brown was diagnosed with diabetes by his doctor.,Person Person O O O Medical O O O
+Sarah Jones was prescribed medication for her high blood pressure.,Person Person O O O O O Medical Medical O
+Mark Williams was diagnosed with anemia and given iron supplements.,Person Person O O O Medical O O O O
+Emily Smith was prescribed medication for her asthma.,Person Person O O O O O O
+Paul Anderson was diagnosed with a kidney infection and given antibiotics.,Person Person O O O O Medical Medical O O O
+Jennifer Johnson was diagnosed with a urinary tract infection and given antibiotics.,Person Person O O O O Medical Medical Medical O O O
+Christopher Williams was prescribed medication for his thyroid disorder.,Person Person O O O O O Medical O
+David Brown was diagnosed with a skin infection and given topical ointment.,Person Person O O O O Medical Medical O O O O
+Michelle Jones was prescribed medication for her depression.,Person Person O O O O O O
+Joshua Smith was diagnosed with a sinus infection and given antibiotics.,Person Person O O O O Medical Medical O O O
+Matthew Anderson was prescribed medication for his anxiety.,Person Person O O O O O O
+Sarah Johnson was diagnosed with a stomach virus and given fluids.,Person Person O O O O Medical Medical O O O
+John Williams was prescribed medication for his chronic pain.,Person Person O O O O O Medical O
+Elizabeth Brown was diagnosed with a fever and given ibuprofen.,Person Person O O O O Medical O O O
+Michael Jones was prescribed medication for his high cholesterol.,Person Person O O O O O Medical O
+Jason Smith was diagnosed with the flu and given antiviral medication.,Person Person O O O O Medical O O O O
+Jessica Anderson was prescribed medication for her allergies.,Person Person O O O O O O
+John Doe was diagnosed with a broken arm by his physician.,Person Person O O O O Medical Medical O O O
+Jane Smith was prescribed antibiotics for her strep throat.,Person Person O O O O O Medical O
+Robert Johnson was treated for a fractured rib by his doctor.,Person Person O O O O Medical Medical O O O
+Mary Jones received a prescription for high blood pressure medication.,Person Person O O O O Medical Medical Medical O
+William Brown was diagnosed with a case of pneumonia.,Person Person O O O O O O O
+Jennifer Davis was prescribed an inhaler for her asthma.,Person Person O O O O O O O
+Christopher Miller was treated for a urinary tract infection.,Person Person O O O O Medical Medical O
+Sarah Wilson was prescribed medication for her diabetes.,Person Person O O O O O O
+Matthew Taylor was diagnosed with a severe case of the flu.,Person Person O O O O O O O O O
+Elizabeth Moore was prescribed antibiotics for a sinus infection.,Person Person O O O O O Medical O
+Mark Anderson was treated for a sprained ankle.,Person Person O O O O Medical O
+Jessica Thomas was prescribed medication for her high cholesterol.,Person Person O O O O O Medical O
+Joseph White was diagnosed with a kidney infection.,Person Person O O O O Medical O
+Patricia Harris was prescribed an inhaler for her bronchitis.,Person Person O O O O O O O
+David Jackson was treated for a severe case of strep throat.,Person Person O O O O O O O Medical O
+Barbara Martin was prescribed medication for her hypertension.,Person Person O O O O O O
+Kenneth Robinson was diagnosed with a case of gout.,Person Person O O O O O O O
+Susan Garcia was prescribed antibiotics for her ear infection.,Person Person O O O O O Medical O
+Jeffrey Lewis was treated for a severe case of the flu.,Person Person O O O O O O O O O
+Margaret Walker was prescribed medication for her depression.,Person Person O O O O O O
+"John Smith was admitted to the hospital due to a broken arm, as diagnosed by Dr. Brown.",Person Person O O O O O O O O Medical O O O O Doctor O
+Jane Doe was prescribed antibiotics for her strep throat by Nurse Johnson.,Person Person O O O O O Medical Medical O Nurse O
+Robert Jones was referred to a specialist for his heart murmur by his primary care physician Dr. Smith.,Person Person O O O O O O O Medical Medical O O O O O Doctor O
+Mary Johnson was given a flu shot by Dr. White.,Person Person O O O Medical Medical O Doctor O
+Sarah Williams was diagnosed with pneumonia and prescribed Tamiflu by her doctor Dr. Lee.,Person Person O O O Medical O O Drug O O O Doctor O
+Jack Brown was tested for diabetes by Nurse Adams.,Person Person O O O Medical O Nurse O
+David Smith was prescribed ibuprofen to treat his headaches by Dr. Taylor.,Person Person O O Drug O O O Medical O Doctor O
+Emily Jones was given a prescription for an inhaler to treat her asthma by Dr. Anderson.,Person Person O O O O O O Drug O O O Medical O Doctor O
+Matthew Johnson was referred to a cardiologist for a cholesterol check-up by his family physician Dr. Williams.,Person Person O O O O O O O Medical Medical O O O O Doctor O
+Jennifer Williams was prescribed a topical cream for her eczema by Dr. Brown.,Person Person O O O Drug Drug O O Medical O Doctor O
+John Smith was prescribed antibiotics for his sore throat by his physician.,Person Person O O Drug O O Medical Medical O O O
+Jane Doe was advised to take ibuprofen for her headache by her nurse.,Person Person O O O O Drug O O Medical O O O
+Michael Johnson was given a prescription for hydrocodone for his back pain from his doctor.,Person Person O O O O O Drug O O Medical Medical O O O
+Sarah Williams was recommended to take acetaminophen for her muscle aches by her pharmacist.,Person Person O O O O Drug O O Medical Medical O O O
+Robert Brown was instructed to use an inhaler for his asthma by his specialist.,Person Person O O O O O Drug O O Medical O O O
+Jessica Jones was suggested to take a decongestant for her cold by her medical provider.,Person Person O O O O O Drug O O Medical O O O O
+David Smith was advised to take an antihistamine for his allergies from his healthcare provider.,Person Person O O O O O Drug O O Medical O O O O
+Mary Johnson was prescribed a bronchodilator for her bronchitis from her doctor.,Person Person O O O Drug O O Medical O O O
+Mark Williams was recommended to use a nasal spray for his sinusitis by his healthcare professional.,Person Person O O O O O Drug Drug O O Medical O O O O
+Jennifer Brown was instructed to take an antacid for her heartburn from her physician.,Person Person O O O O O Drug O O Medical O O O
+James Jones was suggested to take a laxative for his constipation by his nurse.,Person Person O O O O O Drug O O Medical O O O
+Andrew Smith was prescribed a diuretic for his high blood pressure from his doctor.,Person Person O O O Drug O O Medical Medical Medical O O O
+Elizabeth Johnson was advised to take an antipyretic for her fever by her pharmacist.,Person Person O O O O O Drug O O Medical O O O
+Brian Williams was given a prescription for an anti-inflammatory for his arthritis from his specialist.,Person Person O O O O O O Drug O O Medical O O O
+Susan Brown was recommended to use an antiseptic for her cuts by her medical provider.,Person Person O O O O O Drug O O Medical O O O O
+Kevin Jones was instructed to take a decongestant for his sinus infection from his healthcare provider.,Person Person O O O O O Drug O O Medical Medical O O O O
+Matthew Smith was suggested to take a cough suppressant for his cough by his physician.,Person Person O O O O O Medical Drug O O Medical O O O
+Emily Johnson was prescribed a topical cream for her rash from her doctor.,Person Person O O O Drug Drug O O Medical O O O
+Thomas Williams was advised to use an antifungal for his athlete's foot by his nurse.,Person Person O O O O O Drug O O Medical Medical O O O
+Karen Brown was recommended to take an expectorant for her chest congestion by her pharmacist.,Person Person O O O O O Drug O O Medical Medical O O O
+John Smith was diagnosed with pneumonia by his physician Dr. Jones.,Person Person O O O Medical O O O Physician O
+Jane Doe underwent surgery to remove her gallbladder at the hospital.,Person Person O O O O O Medical O O O
+Sarah Johnson was given a prescription for ibuprofen to treat her migraine.,Person Person O O O O O Drug O O O O
+Mark Brown was administered a dose of antibiotics for his sinus infection.,Person Person O O O O O Drug O O Medical O
+Alex Williams was prescribed a course of steroids to manage his asthma.,Person Person O O O O O Drug O O O O
+Mary Miller was advised to take vitamin D supplements to boost her immunity.,Person Person O O O O Drug Drug Drug O O O O
+David Taylor was recommended to have an X-ray to diagnose his shoulder pain.,Person Person O O O O O Procedure O O O Medical O
+Rachel Moore was instructed to take an inhaler for her bronchitis.,Person Person O O O O O Drug O O O
+Matthew Anderson was given a blood test to check for diabetes.,Person Person O O O Procedure Procedure O O O O
+Jessica Smith was advised to have a CT scan to examine her abdomen.,Person Person O O O O O Procedure Procedure O O O O
+Mary Smith had a sore throat and was prescribed antibiotics by her physician.,Person Person O O Medical Medical O O O Drug O O O
+Ryan Johnson was diagnosed with diabetes and prescribed insulin by his doctor.,Person Person O O O Medical O O Drug O O O
+Sarah Brown was given a prescription for ibuprofen to help her headaches.,Person Person O O O O O Drug O O O O
+Mark Davis visited the hospital for a checkup and was given a prescription for a blood pressure medication.,Person Person O O O O O O O O O O O O O Medical Medical O
+Jane Taylor was suffering from asthma and was prescribed an inhaler.,Person Person O O O Medical O O O O O
+Joe Miller was diagnosed with a heart condition and was prescribed a beta-blocker.,Person Person O O O O Medical Medical O O O O O
+Emily Anderson was suffering from a cold and was prescribed a decongestant.,Person Person O O O O Medical O O O O O
+David Wilson was prescribed a topical cream for his eczema.,Person Person O O O Drug Drug O O O
+Susan Lee was diagnosed with high cholesterol and was prescribed a statin.,Person Person O O O Medical Medical O O O O O
+Matthew Moore was given a prescription for an anti-inflammatory to help his arthritis.,Person Person O O O O O O Drug O O O O
+John Smith had an infection and was prescribed an antibiotic.,Person Person O O Medical O O O O O
+Jessica Johnson was prescribed a cough syrup for her bronchitis.,Person Person O O O Drug Drug O O O
+Christopher Brown was diagnosed with gout and was given a prescription for a pain reliever.,Person Person O O O Medical O O O O O O O Drug O
+Katherine Davis was suffering from an ear infection and was prescribed an ear drop.,Person Person O O O O Medical Medical O O O O Medical O
+Elizabeth Taylor was prescribed a muscle relaxant for her back pain.,Person Person O O O Drug Drug O O Medical O
+Jacob Miller was suffering from insomnia and was prescribed a sleeping pill.,Person Person O O O Medical O O O O Drug O
+Jennifer Anderson was given a prescription for an antacid to help her heartburn.,Person Person O O O O O O Drug O O O O
+Robert Wilson was diagnosed with a sinus infection and was prescribed an antibiotic.,Person Person O O O O Medical Medical O O O O O
+Sarah Lee was prescribed a diuretic for her high blood pressure.,Person Person O O O Drug O O Medical Medical O
+David Moore was given a prescription for an anti-anxiety medication to help with his anxiety.,Person Person O O O O O O Drug Drug O O O O O
+The nurse gave the patient a dose of ibuprofen to reduce his sore throat.,O O O O O O O O Drug O O O Medical O
+The doctor prescribed antibiotics to treat the patient's infection.,O O O Drug O O O O O
+The patient was given a prescription for hydrocortisone cream to treat his rash.,O O O O O O O Drug O O O O O
+The doctor recommended acetaminophen for the patient's headache.,O O O Drug O O O O
+The patient was given an inhaler to treat his asthma.,O O O O O Drug O O O O
+The patient was prescribed an antibiotic to treat his sinus infection.,O O O O O Drug O O O Medical O
+The doctor prescribed the patient a course of prednisone for his allergies.,O O O O O O O O Drug O O O
+The patient was given a prescription for amoxicillin to treat her ear infection.,O O O O O O O Drug O O O Medical O
+The doctor prescribed a topical ointment to treat the patient's eczema.,O O O O Drug Drug O O O O O
+The patient was given a dose of ibuprofen to reduce his fever.,O O O O O O O Drug O O O O
+The patient was prescribed an antibiotic to treat her bronchitis.,O O O O O Drug O O O O
+The doctor recommended tylenol for the patient's muscle pain.,O O O Drug O O O Medical O
+The patient was given a prescription for an antihistamine to treat his allergies.,O O O O O O O O Drug O O O O
+The doctor prescribed a course of antibiotics to treat the patient's urinary tract infection.,O O O O O O Drug O O O O Medical Medical O
+The patient was given a dose of ibuprofen to reduce his back pain.,O O O O O O O Drug O O O Medical O
+The doctor recommended a decongestant to treat the patient's sinus congestion.,O O O O Drug O O O O Medical O
+The patient was prescribed a topical cream to treat her psoriasis.,O O O O O Drug Drug O O O O
+The doctor recommended acetaminophen for the patient's toothache.,O O O Drug O O O O
+The patient was given a prescription for an antacid to treat her heartburn.,O O O O O O O O Drug O O O O
+The doctor prescribed a course of prednisone to treat the patient's inflammation.,O O O O O O Drug O O O O O
+The patient was diagnosed with a fractured ankle by the radiologist.,O O O O O O Medical Medical O O O
+The patient was prescribed antibiotics for his strep throat by the physician.,O O O O Drug O O Medical Medical O O O
+The patient was given an inhaler for his asthma by the nurse practitioner.,O O O O O Drug O O Medical O O O O
+The patient was given a tetanus shot to prevent infection by the doctor.,O O O O O Medical Drug O O O O O O
+The patient was given insulin to treat his diabetes by the endocrinologist.,O O O O Drug O O O Medical O O O
+The patient was given a prescription for a topical ointment to treat his eczema by the dermatologist.,O O O O O O O O Drug Drug O O O Medical O O O
+The patient was treated with an anticoagulant to prevent blood clots by the cardiologist.,O O O O O O Drug O O Medical Medical O O O
+The patient was given medication to reduce his cholesterol by the family doctor.,O O O O Drug O O O Medical O O O O
+The patient was prescribed an anti-inflammatory to treat his arthritis by the rheumatologist.,O O O O O Drug O O O Medical O O O
+The patient was given a bronchodilator to treat his COPD by the pulmonologist.,O O O O O Drug O O O Medical O O O
+The patient was given a vaccine to prevent the flu by the internist.,O O O O O Drug O O O Medical O O O
+The patient was given an antidepressant to treat his depression by the psychiatrist.,O O O O O Drug O O O Medical O O O
+The patient was given a muscle relaxant to treat his back pain by the orthopedist.,O O O O O Drug Drug O O O Medical Medical O O O
+The patient was prescribed a diuretic to treat his high blood pressure by the primary care physician.,O O O O O Drug O O O Medical Medical Medical O O O O O
+The patient was given an antacid to treat his heartburn by the gastroenterologist.,O O O O O Drug O O O Medical O O O
+The patient was given a topical cream to treat his psoriasis by the allergist.,O O O O O Drug Drug O O O Medical O O O
+The patient was prescribed an antihistamine to treat his hay fever by the allergist.,O O O O O Drug O O O Medical Medical O O O
+The patient was given a decongestant to treat his sinus infection by the ENT specialist.,O O O O O Drug O O O Medical Medical O O O O
+The patient was given an immunosuppressant to treat his Crohn's disease by the gastroenterologist.,O O O O O Drug O O O Medical Medical O O O
+The patient was prescribed a beta-blocker to treat his hypertension by the cardiologist.,O O O O O Drug O O O Medical O O O
+The patient was diagnosed with a broken leg by the orthopedist.,O O O O O O Medical Medical O O O
+She was prescribed antibiotics to treat her strep throat.,O O O Drug O O O Medical O
+The cardiologist recommended he take a statin to lower his cholesterol.,O O O O O O Drug O O O O
+The neurologist diagnosed him with a migraine and prescribed him ibuprofen.,O O O O O O Medical O O O O
+The oncologist prescribed chemotherapy to treat her cancer.,O O O Treatment O O O O
+The radiologist ordered an MRI to diagnose her back pain.,O O O O Diagnostic O O O Medical O
+The dermatologist prescribed a topical cream to treat her eczema.,O O O O Drug Drug O O O O
+The endocrinologist suggested she take insulin to manage her diabetes.,O O O O O Drug O O O O
+The allergist prescribed an antihistamine to help with her allergies.,O O O O Drug O O O O O
+The ophthalmologist recommended he use eye drops to treat his dry eyes.,O O O O O Drug Drug O O O Medical O
+The ENT prescribed a decongestant to help with her sinus infection.,O O O O Drug O O O O Medical O
+The gynecologist suggested she take birth control to regulate her hormones.,O O O O O Drug Drug O O O O
+The pulmonologist recommended he take an inhaler to help with his asthma.,O O O O O O Drug O O O O O
+The gastroenterologist prescribed an antacid to treat her acid reflux.,O O O O Drug O O O Medical O
+The urologist suggested he take a diuretic to reduce his water retention.,O O O O O O Drug O O O Medical O
+The rheumatologist prescribed a non-steroidal anti-inflammatory drug to treat his arthritis.,O O O O Drug Drug Drug O O O O
+The oncologist recommended she take a targeted therapy to treat her cancer.,O O O O O O Treatment Treatment O O O O
+The physiatrist prescribed physical therapy to help with her back pain.,O O O Treatment Treatment O O O O Medical O
+The pediatrician prescribed an antibiotic to treat her ear infection.,O O O O Drug O O O Medical O
+The psychiatrist recommended she take an antidepressant to help with her depression.,O O O O O O Drug O O O O O
